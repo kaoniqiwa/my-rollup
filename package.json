@@ -1,0 +1,16 @@
+{
+  "name": "@panminxiang/my-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "acorn": "^8.11.3",
+    "magic-string": "^0.30.8"
+  }
+}
